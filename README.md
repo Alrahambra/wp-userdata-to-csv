@@ -5,7 +5,7 @@ Creates a CSV file of Wordpress users based on the Wordpress API offering public
 
 Simply run the utility as described under your own responsibility.
 
-    wp-user-indexer.py [-h] -b BASEURL
+    wp-userdata-to-csv.py [-h] -b BASEURL
 
     optional arguments:
     -h, --help            show this help message and exit
